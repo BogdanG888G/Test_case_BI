@@ -51,8 +51,8 @@
 ✅ Исследование влияния сезонности и адаптация стратегий продаж.  
 
 ## 🛠 Используемые технологии  
-- 📊 **BI-инструменты** (Data Visualization)  
-- 📈 **Аналитика данных**  
-- 🏷️ **ML-прогнозирование**  
-- 🐍 **Python** (pandas, scikit-learn)  
+- 📊 **BI-инструменты** (Yandex DataLens)  
+- 🐍 **Python** (pandas, scikit-learn)
+
+## [Посмотреть дашборд](https://datalens.yandex/lfyz2nj52foe7)
 
